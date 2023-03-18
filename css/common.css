@@ -1,0 +1,73 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  background: #E5E5E5;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  color: #FFFFFF;
+}
+
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-size: 0.6rem;
+  line-height: 0.6rem;
+}
+
+button {
+  background: linear-gradient(129.54deg, #FF7B4E 15.57%, #FF584E 95.03%);
+  border-radius: 27px;
+  font-weight: 500;
+  font-size: 0.8rem;
+  line-height: 0.8rem;
+  width: 223px;
+  height: 79px;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+button:active {
+  border: 1px solid;
+  box-shadow: inset 0 0 20px rgba(37, 33, 33, 0.5), 0 0 20px rgba(10, 9, 9, 0.2);
+  outline-color: rgba(27, 21, 21, 0);
+  text-shadow: 1px 1px 2px #427388; 
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 3.2rem;
+}
+
+.text {
+  opacity: 0.5;
+  color: #0F1F1C;
+  line-height: 1.3rem;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 2.8rem;
+  color: #0F1F1C;
+}
+
+h6 {
+  font-weight: 500;
+  font-size: 1.2rem;
+  line-height: 1.3rem;
+  color: #0F1F1C;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 3.2rem;
+  color: #0F1F1C;
+}
